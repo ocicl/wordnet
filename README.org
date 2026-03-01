@@ -4,6 +4,6 @@ Common Lisp interface to WordNet - modernized
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/phoe/wordnet.git |
-| commit  | de9be8b                                 |
+| commit  | a96ee69                                 |
 | systems | wordnet                                 |
 |---------+-----------------------------------------|
